@@ -1,7 +1,7 @@
 ICS4U
 =====
 
-ICS4U Course for Mr. Seidel's classes
+ICS4U Course for Mr. Osudar's classes
 
 ####Tentative Topics
 _Note: Some of these topics may be assigned as homework throughout the course, and the order may change as the course progresses_
